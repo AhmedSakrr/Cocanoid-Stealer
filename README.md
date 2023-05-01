@@ -58,7 +58,7 @@
     • Grabs IP Information.
     • Grabs System Info.
     • Grabs Saved Wifi Passwords.
-    • Captures Screenshot.
+    • Captures SS.
     • Captures Webcam Image (Disabled due to bugs, can be enabled explicitly).
     • Sends All Data Through Discord Webhooks.
     (...more)
